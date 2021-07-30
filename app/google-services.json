@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104191620835",
+    "project_id": "fir-email-password-auth-d3ab6",
+    "storage_bucket": "fir-email-password-auth-d3ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104191620835:android:fe619126d58fc2397e77d6",
+        "android_client_info": {
+          "package_name": "com.hyeonseungson.fb_firebase_email_password_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104191620835-l6edl5n463v2u8n6s4t9g7m8c2i0pahl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtPJFi_7ioop1cfzZlerapPwtY3NachuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104191620835-l6edl5n463v2u8n6s4t9g7m8c2i0pahl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
